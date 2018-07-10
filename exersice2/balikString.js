@@ -1,7 +1,7 @@
 console.log('Exersice 2 - Balik String');
 
 
-// Difinisikan variable
+// Difinisikan function
 function balikString(kata){
     var displayReverse ='';
     for(var i = kata.length; i> 0;i--){
