@@ -46,7 +46,7 @@ function dataHandling2(input) {
                 +'["\ '+provinsi+'\ "]'+'["\ '+tanggalLahir+'\ "]' 
                 +'["\ '+gender+'\ "]'+'["\ '+asalSekolah+'\ "]'+'\n'+'\n'
                 +bulan+'\n'+'\n'
-                +'["\ '+tahun+ '"\,'+'"\ '+bulanDigital+'"\, "\ '+tanggal +'\"]'+ '\n'+'\n'
+                +'["\ '+tahun+ '"\,'+'"\ '+tanggal+'"\, "\ '+bulanDigital +'\"]'+ '\n'+'\n'
                 +tanggal+'-'+bulanDigital+'-'+tahun +'\n'+'\n'
                 +namaSiswa +'\n';
 

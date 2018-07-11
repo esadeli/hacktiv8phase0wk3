@@ -18,7 +18,7 @@ function pasanganTerbesar(num) {
             //console.log(angkaString);
         }
     }
-    return angkaTerbesar;
+    return parseInt(angkaTerbesar);
 }
 
 // Test Case
